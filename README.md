@@ -1,5 +1,5 @@
 # &emsp;&emsp;&emsp; Denavit-Hartenberg-Matrices-Maker
-**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A simple C algorithm that calculate Denavit-Hartenberg Matrices**
+**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;A simple C algorithm that calculate Denavit-Hartenberg Matrices**
 
 
 ## what is?
